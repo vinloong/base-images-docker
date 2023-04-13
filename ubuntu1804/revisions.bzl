@@ -16,16 +16,16 @@
 # For more details, check the deps_spec.yaml file in the current folder.
 
 UBUNTU1804_TAR = struct(
-    revision = "1647559874",
+    revision = "1668097956",
     sha256 = "8ff78095f7172faaad0ef59df4f5ccae667d8824a37fa7a3f44960119595c598",
 )
 
 DEBS_TARBALL = struct(
-    revision = "1652279488",
-    sha256 = "28907a5fd93f509fe5296b7702cd672c682c47eaf8e7409b9fc8668420efa838",
+    revision = "1674678692",
+    sha256 = "2b07215f59e3f8475fef99605a093e9b4ff03249c52740465e428ab81133adf5",
 )
 
 RULES_DOCKER = struct(
-    commit = "6ea707babdcd54514e0884278ac624fb8bda19c1",
-    sha256 = "9e02383f6b2d45fe05398fd342fbfdc51862bed0b355c139e2e18c5c972d794d",
+    commit = "master",
+    sha256 = "3fdae8c4571d6d3fc343f63c87b3fb030132ad091284b8cbdb7533cb063ded0a",
 )
